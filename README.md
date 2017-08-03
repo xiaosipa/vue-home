@@ -136,7 +136,7 @@ npm run build --report
 │   │   ├── more.vue        
 │   │   ├── my.vue          //个人信息页面
 │   │   ├── people.vue      //社区用户信息页面
-│   │   └── publish.vue     //发布帖子页面(此页面还没写完)
+│   │   └── publish.vue     //发布帖子页面
 │   ├── router              //路由与组件配置
 │   │   └── index.js 
 │   └── util                //时间过滤器，转换时间格式
